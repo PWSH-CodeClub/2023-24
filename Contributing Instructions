@@ -1,0 +1,24 @@
+CONTRIBUTING YOUR PROJECT
+
+Below are some instructions on how to contribute your project to each month's folder. 
+
+FORKING
+1. Click "Fork" at the top-right corner of the repository page. 
+2. Under "Owner", select an owner for the forked repo.
+3. Under "Repository name", you can rename the forked repo to make it more distinguishable to you.
+4. Click "Create fork" 
+
+CREATING YOUR FOLDER
+1. Click on one of the monthly folders, like "August."
+2. In the top-right corner, click "Add file."
+3. Click "Create new file."
+4. Where it says, "Name your file," enter your name followed with a "/" to initialize it as a folder. 
+5. Then, it will ask to name your file again, this time you will enter the name of your project into the title of the new file in your personal folder. 
+6. In the top right, click "Commit changes."
+
+MAKING PULL REQUEST
+1. On the main page of the repo, there is a button that says, "Contribute" under the "Add file" button near the top. Click the "Contribute" button. 
+2. Click the "Open pull request" button. 
+3. Write a title and description for your changes.
+4. Click the "Create pull request" button. 
+5. You're done!
