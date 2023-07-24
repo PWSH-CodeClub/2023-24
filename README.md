@@ -1,5 +1,9 @@
 # 2023-24
 
-[Reference Contributing Instructions](https://github.com/PWSH-CodeClub/2023-24/blob/main/Contributing%20Instructions)
+Reference [Contributing Instructions](https://github.com/PWSH-CodeClub/2023-24/blob/main/Contributing%20Instructions)
 
-[I'm an inline-style link](https://www.google.com)
+GC link - 
+
+website link - https://sites.google.com/view/pwsh-codeclub/home
+
+
